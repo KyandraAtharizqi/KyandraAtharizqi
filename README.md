@@ -1,5 +1,6 @@
 ### Profile
-Saya Rafi Kyandra Atharizqi, mahasiswa jurusan Informatika yang tertarik dengan bidang Data Sains dan Machine Learning
+I am Rafi Kyandra Atharizqi, a student majoring in Informatics who is interested in the fields of Data Science and Machine Learning.
+
 
 <p align="left">
 <a href="[https://github.com/KyandraAtharizqi](https://github.com/KyandraAtharizqi)">
