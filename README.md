@@ -1,5 +1,5 @@
 ### Profile
-I am Rafi Kyandra Atharizqi, a student majoring in Informatics who is interested in the fields of Data Science and Machine Learning.
+I am Rafi Kyandra Atharizqi, a student majoring in Informatics who is interested in the fields of Data Science and Machine Learning. Besides of that, I am also interested in Web development.
 
 
 <p align="left">
